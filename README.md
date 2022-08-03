@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ツfỈRË</h1>
 <h3 align="center">I am mainly a Fivem developer but mess around with other things.</h3>
 
-- 🔭 I’m currently working on **A Fivem Server called StaxRP**
+- 🔭 I’m currently working on **A Fivem Server called Unity Roleplay**
+- I am currently on the dev team of Mercy Collective.
 
 - 📫 How to reach me **ツfỈRË#3263**
 
