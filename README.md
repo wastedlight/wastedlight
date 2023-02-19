@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ツfỈRË</h1>
-<h3 align="center">I am mainly a Fivem developer but mess around with other things.</h3>
+<h3 align="center">I just do random things..</h3>
 
 - 📫 How to reach me **ツfỈRË#3263**
 
