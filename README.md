@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ツfỈRË</h1>
-<h3 align="center">I just do random things..</h3>
+<h3 align="center">Developer/Admin at Mercy Collective, Lead developer at LucityRP</h3>
 
 - 📫 How to reach me **ツfỈRË#3263**
 
