@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ツfỈRË</h1>
-<h3 align="center">Developer/Admin at Mercy Collective
+<h3 align="center">Developer/Admin at Mercy Collective,
 
 Developer of random side projects too.</h3>
 
