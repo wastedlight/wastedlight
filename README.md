@@ -12,7 +12,7 @@
 ### 💻 › Which wrapper do you use?
 - Currently I use the wrapper  [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on discord: [**fire00011**](https://discord.com/users/967847465200009226)
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**_wastedlight**](https://discord.com/users/967847465200009226)
 ### 🔧 › Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007acc)![Java](https://img.shields.io/badge/java-purple.svg?style=for-the-badge&logo=java&logoColor=%23D0A384)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
