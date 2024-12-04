@@ -4,6 +4,7 @@
     <a href="https://github.com/Fire09">
         <img align="center" alt="Follow" src="https://img.shields.io/github/followers/wastedlight?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
         <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=wastedlight">
+        <img align="center" alt="Downloads" src="https://img.shields.io/github/downloads/wastedlight/liarsbaranticheat/total?color=blue&label=Downloads&logo=github&style=flat">
     </a>
 </p>
 
