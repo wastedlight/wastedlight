@@ -9,7 +9,7 @@
 </p>
 
 ### 🤔 › Who are you?
-- I am currently an admin/developer at mercy collective along with other side projects, I have been making discord bots recently. Still learning a bunch of new languages usually just chilling and devloping things.
+- I am currently an Owner/Developer at DevourRP along with other side projects.
 ### 💻 › Which wrapper do you use?
 - Currently I use the wrapper  [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
