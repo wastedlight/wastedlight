@@ -1,6 +1,6 @@
 <!-- Typing Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F48FB1&center=true&vCenter=true&width=435&lines=Yo+I'm+WastedLight;I+code+in+anything+I+feel+like;Bots%2C+Apps%2C+Games%2C+You+Name+It.;Always+building+something...🔥" alt="Typing Animation" />
+   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" width="400" alt="Typing SVG preview">" alt="Typing Animation" />
 </p>
 
 <!-- Discord Status Widget -->
