@@ -1,5 +1,7 @@
+<h1 align="center">Yo, I'm WastedLight</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=77e5fc&center=true&vCenter=true&width=435&lines=WastedLight;Developer+%7C+Bot+Crafter;Builder+of+Chaos+and+Clean+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=77E5FC&center=true&vCenter=true&width=435&lines=Developer+%7C+Bot+Crafter;Builder+of+Chaos+and+Clean+Code" alt="Typing Animation" />
 </p>
 
 <p align="center">
