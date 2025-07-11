@@ -1,7 +1,7 @@
-<!-- Typing Header Animation -->
-<p align="center">
-   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" width="400" alt="Typing SVG preview">" alt="Typing Animation" />
-</p>
+<!-- Optional: Add a custom banner image or GIF -->
+<!-- <p align="center">
+  <img src="./assets/wastedlight-banner.gif" alt="WastedLight Banner" />
+</p> -->
 
 <!-- Discord Status Widget -->
 <p align="center">
