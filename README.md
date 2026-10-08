@@ -25,6 +25,35 @@
   🧪 Stack's a mess — and that's how I like it
 </p>
 
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+  <a href="https://wastedlightbot.com">
+    <img src="https://img.shields.io/badge/WastedLight_Bot-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="WastedLight Bot"/>
+  </a>
+  <a href="https://cotwbot.com">
+    <img src="https://img.shields.io/badge/COTW_Bot-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="COTW Bot"/>
+  </a>
+  <a href="https://wastedlightfacts.com">
+    <img src="https://img.shields.io/badge/WastedLight_Facts_API-77E5FC?style=for-the-badge&logo=json&logoColor=black" alt="WastedLight Facts API"/>
+  </a>
+</p>
+
+<p align="center">
+  🤖 <a href="https://wastedlightbot.com"><strong>WastedLight Bot</strong></a> — public chat bot for Twitch, with Kick and YouTube on the way<br/>
+  <img src="https://img.shields.io/badge/Twitch-live-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch: live"/>
+  <img src="https://img.shields.io/badge/Kick-coming_soon-53FC18?style=flat-square&logo=kick&logoColor=black" alt="Kick: coming soon"/>
+  <img src="https://img.shields.io/badge/YouTube-coming_soon-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube: coming soon"/>
+  <br/><br/>
+  🏆 <a href="https://cotwbot.com"><strong>COTW Bot</strong></a> — Twitch bot, public but mostly set up on request<br/>
+  <img src="https://img.shields.io/badge/Twitch-live-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch: live"/>
+  <br/><br/>
+  📚 <a href="https://wastedlightfacts.com"><strong>WastedLight Facts</strong></a> — public facts API, works with bots on any platform<br/>
+  <img src="https://img.shields.io/badge/Twitch-supported-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch: supported"/>
+  <img src="https://img.shields.io/badge/Kick-supported-53FC18?style=flat-square&logo=kick&logoColor=black" alt="Kick: supported"/>
+  <img src="https://img.shields.io/badge/YouTube-supported-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube: supported"/>
+</p>
+
 <h2 align="center">🧰 Tech Toolbox</h2>
 
 <h3 align="center">Languages</h3>
