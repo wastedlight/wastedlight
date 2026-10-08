@@ -14,7 +14,6 @@
   <a href="https://github.com/Fire09">
     <img src="https://img.shields.io/github/followers/wastedlight?style=flat&logo=github&label=Followers&color=2D76BF" alt="Followers">
     <img src="https://komarev.com/ghpvc/?username=wastedlight&color=blueviolet" alt="Profile Views">
-    <img src="https://img.shields.io/github/downloads/wastedlight/liarsbaranticheat/total?color=blue&label=Downloads&logo=github&style=flat" alt="Downloads">
   </a>
 </p>
 
