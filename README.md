@@ -33,6 +33,8 @@ My work covers bots, backend systems, APIs, game scripting, automation and appli
 
 **Stack's a mess — and that's how I like it.**
 
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -40,48 +42,61 @@ My work covers bots, backend systems, APIs, game scripting, automation and appli
     <img src="https://img.shields.io/badge/WastedLight_Bot-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="WastedLight Bot" />
   </a>
   <a href="https://cotwbot.com">
-    <img src="https://img.shields.io/badge/COTW_Bot-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="COTW Bot" />
+    <img src="https://img.shields.io/badge/COTW_Bot-557744?style=for-the-badge&logo=twitch&logoColor=white" alt="COTW Bot" />
   </a>
   <a href="https://wastedlightfacts.com">
     <img src="https://img.shields.io/badge/WastedLight_Facts-77E5FC?style=for-the-badge&logo=json&logoColor=black" alt="WastedLight Facts" />
+  </a>
+  <a href="https://moodsive.com">
+    <img src="https://img.shields.io/badge/Moodsive-78977D?style=for-the-badge&logo=flutter&logoColor=white" alt="Moodsive" />
   </a>
 </p>
 
 ### 🤖 [WastedLight Bot](https://wastedlightbot.com)
 
-A multi-platform community bot project focused on automation, integrations and interactive features.
+A custom Twitch community bot and management platform.
 
-- Twitch integration
-- Custom commands and channel features
-- Bot dashboard and configuration
+- Twitch integration and custom commands
+- Web-based management dashboard
+- Channel analytics and community engagement
+- Team management and role-based permissions
 - Kick and YouTube support in development
 
-### 🏆 [COTW Bot](https://cotwbot.com)
+**[View Project Showcase →](https://github.com/wastedlight/WastedLightBot-Portfolio)**
 
-A custom Twitch bot featuring game-inspired systems and interactive community functionality.
+### 🦌 [COTW Bot](https://cotwbot.com)
 
-- Custom commands and game mechanics
-- Database-backed features
-- Items, pets, bosses and progression systems
-- Configured and made available on request
+An interactive Twitch hunting game inspired by *theHunter: Call of the Wild*.
+
+- Wildlife hunting and trophy collection
+- In-game economy and equipment upgrades
+- Pets, boss encounters and progression
+- Weekly bounties and a 100-tier battle pass
+- Interactive community gameplay
+
+**[View Project Showcase →](https://github.com/wastedlight/COTWBot-Portfolio)**
 
 ### 📚 [WastedLight Facts API](https://wastedlightfacts.com)
 
-A public facts API built for integration with community bots and other applications.
+A public facts API built for integration with community bots and applications.
 
 - API-driven fact retrieval
 - Designed for bot integrations
 - Twitch, Kick and YouTube compatibility
 
-### 📱 Moodsive
+### 🌿 [Moodsive](https://moodsive.com)
 
-A Flutter-based journaling and mood-tracking application.
+A privacy-focused Flutter journaling and mood-tracking application.
 
-- Mood tracking and journaling
+- Mood tracking and personal journaling
 - Mood analytics and insights
 - Local-first data storage
-- Import and export functionality
-- Dynamic themes and customisation
+- Data import and export
+- Custom themes and personalisation
+
+**[View Project Showcase →](https://github.com/wastedlight/Moodsive-Portfolio)**
+
+<sub>Currently in development.</sub>
 
 ---
 
